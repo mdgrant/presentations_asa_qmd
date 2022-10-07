@@ -1,5 +1,7 @@
 project:
   title: "presentations_asa_qmd"
+  type: website
+  output-dir: docs
 
 editor: visual
 
