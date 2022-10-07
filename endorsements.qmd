@@ -1,0 +1,97 @@
+---
+format: 
+  revealjs:
+    slide-number: true
+    width: 1600
+    height: 900
+    logo: "asa_logo.png"
+    footer: "2022 American Society of Anesthesiologists"
+    css: ["theme.css"]
+    theme: simple
+editor: source
+# filters:
+#   - code-filename
+---
+
+##  {#TitleSlide data-menu-title="TitleSlide" background-color="#303436" background-image="images/hamlet-quarto.jpeg" background-position="left" background-size="contain"}
+
+```{r setup, include=FALSE}
+library(fontawesome)
+library(tidyverse)
+library(quarto)
+library(gt)
+library(gtExtras)
+library(gtsummary)
+```
+
+::: {style="position: absolute; left: 0px; top: 0px; height: 500px; width: 1500px; background-color: #8686cb; padding: 20px; padding-left: 50px; border-radius: 5px;"}
+[Methodological Review of External Guidance Documents]{style="font-size: 80px; font-weight: bold; line-height: 1em; margin: 0px"}
+
+<br>
+
+[Mark Grant, MD, PhD]{style="font-size: 45px; font-weight: bold;"}
+
+[2022-10-24]{style="font-size: 50px;font-weight: bold;"}
+:::
+
+::: footer
+[Annual Meeting]{style="color: black;"}
+:::
+
+<!-- #  {background-color="#fefefe"} -->
+
+## Types of Documents
+
+<br/>
+
+. . .
+
+-   Multidisciplinary documents
+
+     ASA members participate on behalf of the Society
+
+<br/>
+
+. . .
+
+-   Documents from outside organizations
+
+## Multidisciplinary Documents
+
+![](multidisciplinaryDocuments_2022-10-06.png){fig-align="center"}
+
+## Documents from Outside Organizations
+
+![](externalDocuments_2022-10-06.png){fig-align="center" width="439"}
+
+## Methodological Review
+
+-   Background
+
+-   Appraisal
+
+   [NEATS](https://pubmed.ncbi.nlm.nih.gov/30884527/)[^1] (guidelines based on systematic review)
+
+   [AGREE-II](https://www.bmj.com/content/bmj/352/bmj.i1152.full.pdf)[^2] ([modified](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0110469&type=printable)[^3] for consensus guidance)
+
+   Narrative methodological review
+
+## Narrative Review
+
+![](Review.png){fig-align="left" width="800"}
+
+## NEATS (NGC Extent of Adherence to Trustworthy Standards)
+
+![](JueNeats.png){fig-align="center"}
+
+## NEATS Example
+
+![](NeatsExample.png){fig-align="center" width="800"}
+
+## Comments
+
+[^1]: Jue JJ, et al. Developing and Testing the Agency for Healthcare Research and Quality's National Guideline Clearinghouse Extent of Adherence to Trustworthy Standards (NEATS) Instrument. Ann Intern Med 2019; 170: 480-487
+
+[^2]: Brouwers MC, et al. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ 2016; 352:i1152
+
+[^3]: Jacobs C, Graham ID, Makarski J, Chasse M, Fergusson D, Hutton B, Clemons M: Clinical practice guidelines and consensus statements in oncology--an assessment of their methodological quality. PLoS One 2014; 9: e110469

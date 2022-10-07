@@ -1,0 +1,25 @@
+.reveal .slides > section > section { 
+  text-align:left; 
+}
+
+.reveal .slide-logo {
+  max-height: 6rem !important;
+  bottom: -2px;
+  right: 10px;
+}
+
+.reveal .footer {
+    width: 50%;
+    height: 1em;
+    position: absolute;
+    bottom: 0px;
+    padding: 0px;
+    font-size: 2px;
+    color: black;
+}
+
+.reveal .aside-footnote {
+    font-size: 0.1em;
+    color: black;
+}
+
