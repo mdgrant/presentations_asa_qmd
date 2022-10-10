@@ -40,29 +40,55 @@ library(gtsummary)
 
 <!-- #  {background-color="#fefefe"} -->
 
-## Types of Documents
+## Documents & ASA Involvement 
 
 <br/>
 
 . . .
 
--   Multidisciplinary documents
+-   Types of documents
+
+     Practice parameters (inclusive of guidelines)
+
+     Statements or policy papers
+
+. . .
+
+<br/>
+
+-   ASA involvement
 
      ASA members participate on behalf of the Society
 
-<br/>
+     No official ASA involvement
+
+## Categories of Support
 
 . . .
 
--   Documents from outside organizations
+- Endorsement 
 
-## Multidisciplinary Documents
+   The document should generally satisfy ASA’s guideline development requirements and there is general agreement with all recommendations in the document.
 
-![](multidisciplinaryDocuments_2022-10-06.png){fig-align="center"}
+. . . 
 
-## Documents from Outside Organizations
+- Affirmation of value
 
-![](externalDocuments_2022-10-06.png){fig-align="center" width="439"}
+   External organization’s guidelines or practice parameters that have merit and value but either do not generally satisfy ASA’s guideline development require-ments or there is not general agreement with all recommendations in the document.
+
+. . . 
+
+- No Endorsement or Affirmation of Value
+
+   The external organization’s document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership. 
+
+## Evaluation of Practice Parameters
+
+-   Members of CPP
+
+-   ASA methodologists
+
+-   ASA members with content expertise
 
 ## Methodological Review
 
@@ -78,7 +104,21 @@ library(gtsummary)
 
 ## Narrative Review
 
-![](Review.png){fig-align="left" width="800"}
+::: columns
+::: {.column .fragment width="50%"}
+
+![](Review1.png){fig-align="left" width="800"}
+
+:::
+
+::: {.column .fragment width="50%"}
+
+![](Review2.png){fig-align="left" width="800"}
+
+:::
+:::
+
+
 
 ## NEATS (NGC Extent of Adherence to Trustworthy Standards)
 
