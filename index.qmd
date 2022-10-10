@@ -66,21 +66,18 @@ library(gtsummary)
 
 . . .
 
-- Endorsement 
-
-   The document should generally satisfy ASA’s guideline development requirements and there is general agreement with all recommendations in the document.
-
-. . . 
-
-- Affirmation of value
-
-   External organization’s guidelines or practice parameters that have merit and value but either do not generally satisfy ASA’s guideline development require-ments or there is not general agreement with all recommendations in the document.
+- Endorsement <br/>
+The document should generally satisfy ASA’s guideline development requirements and there is general agreement with all recommendations in the document.
 
 . . . 
 
-- No Endorsement or Affirmation of Value
+- Affirmation of value <br/>
+External organization’s guidelines or practice parameters that have merit and value but either do not generally satisfy ASA’s guideline development require-ments or there is not general agreement with all recommendations in the document.
 
-   The external organization’s document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership. 
+. . . 
+
+- No Endorsement or Affirmation of Value<br/>
+The external organization’s document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership. 
 
 ## Evaluation of Practice Parameters
 
