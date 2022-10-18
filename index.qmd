@@ -1,5 +1,5 @@
 ---
-format: 
+format:
   revealjs:
     slide-number: true
     width: 1600
@@ -24,7 +24,9 @@ library(gtExtras)
 library(gtsummary)
 ```
 
-::: {style="position: absolute; left: 0px; top: 0px; height: 500px; width: 1500px; background-color: #8686cb; padding: 20px; padding-left: 50px; border-radius: 5px;"}
+::: {style="position: absolute; left: 0px; top: 0px; height: 840px; width: 1500px; background-color: #989bd9; padding: 20px; padding-left: 50px; border-radius: 0px;"}
+<!-- ::: {style="position: absolute; left: 0px; top: 0px; height: 500px; width: 1500px; background-color: #989bd9; padding: 20px; padding-left: 50px; border-radius: 5px;"} -->
+
 [Methodological Review of External Guidance Documents]{style="font-size: 80px; font-weight: bold; line-height: 1em; margin: 0px"}
 
 <br>
@@ -35,12 +37,12 @@ library(gtsummary)
 :::
 
 ::: footer
-[Annual Meeting]{style="color: black;"}
+[2022 Annual Meeting]{style="color: #989bd9;"}
 :::
 
 <!-- #  {background-color="#fefefe"} -->
 
-## Documents & ASA Involvement 
+## Documents & ASA Involvement
 
 <br/>
 
@@ -66,18 +68,15 @@ library(gtsummary)
 
 . . .
 
-- Endorsement <br/>
-The document should generally satisfy ASA’s guideline development requirements and there is general agreement with all recommendations in the document.
+-   Endorsement <br/> The document should generally satisfy ASA's guideline development requirements and there is general agreement with all recommendations in the document.
 
-. . . 
+. . .
 
-- Affirmation of value <br/>
-External organization’s guidelines or practice parameters that have merit and value but either do not generally satisfy ASA’s guideline development require-ments or there is not general agreement with all recommendations in the document.
+-   Affirmation of Value <br/> External organization's guidelines or practice parameters that have merit and value but either do not generally satisfy ASA's guideline development requirements or there is not general agreement with all recommendations in the document.
 
-. . . 
+. . .
 
-- No Endorsement or Affirmation of Value<br/>
-The external organization’s document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership. 
+-   No Endorsement or Affirmation of Value<br/> The external organization's document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership.
 
 ## Evaluation of Practice Parameters
 
@@ -89,7 +88,7 @@ The external organization’s document does not meet ASA guideline development r
 
 ## Methodological Review
 
--   Background
+-   *"\[G\]enerally satisfy ASA's guideline development requirements"*
 
 -   Appraisal
 
@@ -102,28 +101,62 @@ The external organization’s document does not meet ASA guideline development r
 ## Narrative Review
 
 ::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="52%"}
+Background/Purpose<br/>
 
-![](Review1.png){fig-align="left" width="800"}
+Characteristics of the guidance
 
+-   Document type <br/>
+-   Organization/Society <br/>
+-   Strength of evidence framework <br/>
+-   Strength of recommendation framework<br/>
+-   Consensus method: (explicit/implicit)<br/>
+
+NEATS/AGREE-II appraisal
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="46%"}
+Methodological approach
 
-![](Review2.png){fig-align="left" width="800"}
+Systematic review 
+
+- PICOs<br/>
+- Review questions <br/>
+- Search<br/>
+- Types of studies included<br/>
+- Risk of bias (quality) assessment<br/>
+- Strategy for evidence synthesis
+
+Summary<br/>
+References<br/> 
+
 
 :::
 :::
 
+<!-- ## Narrative Review -->
 
+<!-- ::: columns -->
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![](Review1.png){fig-align="left" width="800"} -->
+<!-- ::: -->
+
+<!-- ::: {.column .fragment width="50%"} -->
+<!-- ![](Review2.png){fig-align="left" width="800"} -->
+<!-- ::: -->
+<!-- ::: -->
 
 ## NEATS (NGC Extent of Adherence to Trustworthy Standards)
 
 ![](JueNeats.png){fig-align="center"}
 
-## NEATS Example
+## Guideline --- NEATS Example
 
 ![](NeatsExample.png){fig-align="center" width="800"}
+
+## Consensus Statement --- Modified AGREE-II
+
+![](AgreeExample.png){fig-align="center" width="800"}
 
 ## Comments
 

@@ -4,7 +4,7 @@
     "href": "index.html#TitleSlide",
     "title": "",
     "section": "",
-    "text": "Methodological Review of External Guidance Documents\n\nMark Grant, MD, PhD\n2022-10-24\n\n\nAnnual Meeting"
+    "text": "Methodological Review of External Guidance Documents\n\nMark Grant, MD, PhD\n2022-10-24\n\n\n2022 Annual Meeting"
   },
   {
     "objectID": "index.html#documents-asa-involvement",
@@ -18,7 +18,7 @@
     "href": "index.html#categories-of-support",
     "title": "",
     "section": "Categories of Support",
-    "text": "Categories of Support\n\n\nEndorsement  The document should generally satisfy ASA’s guideline development requirements and there is general agreement with all recommendations in the document.\n\n\n\n\nAffirmation of value  External organization’s guidelines or practice parameters that have merit and value but either do not generally satisfy ASA’s guideline development require-ments or there is not general agreement with all recommendations in the document.\n\n\n\n\nNo Endorsement or Affirmation of Value The external organization’s document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership."
+    "text": "Categories of Support\n\n\nEndorsement  The document should generally satisfy ASA’s guideline development requirements and there is general agreement with all recommendations in the document.\n\n\n\n\nAffirmation of Value  External organization’s guidelines or practice parameters that have merit and value but either do not generally satisfy ASA’s guideline development requirements or there is not general agreement with all recommendations in the document.\n\n\n\n\nNo Endorsement or Affirmation of Value The external organization’s document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership."
   },
   {
     "objectID": "index.html#evaluation-of-practice-parameters",
@@ -32,14 +32,14 @@
     "href": "index.html#methodological-review",
     "title": "",
     "section": "Methodological Review",
-    "text": "Methodological Review\n\nBackground\nAppraisal\n\n   NEATS1 (guidelines based on systematic review)\n   AGREE-II2 (modified3 for consensus guidance)\n   Narrative methodological review\nJue JJ, et al. Developing and Testing the Agency for Healthcare Research and Quality’s National Guideline Clearinghouse Extent of Adherence to Trustworthy Standards (NEATS) Instrument. Ann Intern Med 2019; 170: 480-487Brouwers MC, et al. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ 2016; 352:i1152Jacobs C, Graham ID, Makarski J, Chasse M, Fergusson D, Hutton B, Clemons M: Clinical practice guidelines and consensus statements in oncology–an assessment of their methodological quality. PLoS One 2014; 9: e110469"
+    "text": "Methodological Review\n\n“[G]enerally satisfy ASA’s guideline development requirements”\nAppraisal\n\n   NEATS1 (guidelines based on systematic review)\n   AGREE-II2 (modified3 for consensus guidance)\n   Narrative methodological review\nJue JJ, et al. Developing and Testing the Agency for Healthcare Research and Quality’s National Guideline Clearinghouse Extent of Adherence to Trustworthy Standards (NEATS) Instrument. Ann Intern Med 2019; 170: 480-487Brouwers MC, et al. The AGREE Reporting Checklist: a tool to improve reporting of clinical practice guidelines. BMJ 2016; 352:i1152Jacobs C, Graham ID, Makarski J, Chasse M, Fergusson D, Hutton B, Clemons M: Clinical practice guidelines and consensus statements in oncology–an assessment of their methodological quality. PLoS One 2014; 9: e110469"
   },
   {
     "objectID": "index.html#narrative-review",
     "href": "index.html#narrative-review",
     "title": "",
     "section": "Narrative Review",
-    "text": "Narrative Review"
+    "text": "Narrative Review\n\n\nBackground/Purpose\nCharacteristics of the guidance\n\nDocument type \nOrganization/Society \nStrength of evidence framework \nStrength of recommendation framework\nConsensus method: (explicit/implicit)\n\nNEATS/AGREE-II appraisal\n\nMethodological approach\nSystematic review\n\nPICOs\nReview questions \nSearch\nTypes of studies included\nRisk of bias (quality) assessment\nStrategy for evidence synthesis\n\nSummary References"
   },
   {
     "objectID": "index.html#neats-ngc-extent-of-adherence-to-trustworthy-standards",
@@ -49,11 +49,18 @@
     "text": "NEATS (NGC Extent of Adherence to Trustworthy Standards)"
   },
   {
-    "objectID": "index.html#neats-example",
-    "href": "index.html#neats-example",
+    "objectID": "index.html#guideline-neats-example",
+    "href": "index.html#guideline-neats-example",
     "title": "",
-    "section": "NEATS Example",
-    "text": "NEATS Example"
+    "section": "Guideline — NEATS Example",
+    "text": "Guideline — NEATS Example"
+  },
+  {
+    "objectID": "index.html#consensus-statement-modified-agree-ii",
+    "href": "index.html#consensus-statement-modified-agree-ii",
+    "title": "",
+    "section": "Consensus Statement — Modified AGREE-II",
+    "text": "Consensus Statement — Modified AGREE-II"
   },
   {
     "objectID": "index.html#comments",
