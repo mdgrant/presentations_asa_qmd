@@ -37,7 +37,7 @@ library(gtsummary)
 :::
 
 ::: footer
-[2022 Annual Meeting]{style="color: #989bd9;"}
+[2022 Annual Meeting]{style="color: #989bd9; right: 0px;"}
 :::
 
 <!-- #  {background-color="#fefefe"} -->
@@ -46,7 +46,7 @@ library(gtsummary)
 
 <br/>
 
-. . .
+<!-- . . . -->
 
 -   Types of documents
 
@@ -54,7 +54,7 @@ library(gtsummary)
 
      Statements or policy papers
 
-. . .
+<!-- . . . -->
 
 <br/>
 
@@ -66,15 +66,15 @@ library(gtsummary)
 
 ## Categories of Support
 
-. . .
+<!-- . . . -->
 
 -   Endorsement <br/> The document should generally satisfy ASA's guideline development requirements and there is general agreement with all recommendations in the document.
 
-. . .
+<!-- . . . -->
 
 -   Affirmation of Value <br/> External organization's guidelines or practice parameters that have merit and value but either do not generally satisfy ASA's guideline development requirements or there is not general agreement with all recommendations in the document.
 
-. . .
+<!-- . . . -->
 
 -   No Endorsement or Affirmation of Value<br/> The external organization's document does not meet ASA guideline development requirements and is not felt to be of benefit to the ASA membership.
 
